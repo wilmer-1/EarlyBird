@@ -1,0 +1,20 @@
+[
+	{
+    "id": 123,
+  	"text": "Happy Birthday!",
+   	"author": "Glyne Gittens",
+    "handle": "@GlyneGittens"
+	},
+	{
+    "id": 456,
+  	"text": "Feliz Cumpleaños!",
+    "author": "Jessica Cavazos Erhard",
+    "handle": "@puppyyTest"
+	},
+	{
+    "id": 786,
+  	"text": "It's been an amazing evening.",
+    "author": "Susan Neth",
+    "handle": "@soozinbird"
+	}
+]
